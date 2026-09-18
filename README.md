@@ -12,25 +12,25 @@ Tengo altas expectativas respecto a la asignatura de Arquitectura de Software, y
 ## Evidencias
 
 ### Imagen 1
-![Imagen 1](img7/imagen_1.png)
+![Imagen 1](img/imagen_1.png)
 
 ### Imagen 2
-![Imagen 2](img7/imagen_2.png)
+![Imagen 2](img/imagen_2.png)
 
 ### Imagen 3
-![Imagen 3](img7/imagen_3.png)
+![Imagen 3](img/imagen_3.png)
 
 ### Imagen 4
-![Imagen 4](img7/imagen_4.png)
+![Imagen 4](img/imagen_4.png)
 
 ### Imagen 5
-![Imagen 5](img7/imagen_5.png)
+![Imagen 5](img/imagen_5.png)
 
 ### Imagen 6
-![Imagen 6](img7/imagen_6.png)
+![Imagen 6](img/imagen_6.png)
 
 ### Imagen 7
-![Imagen 7](img7/imagen_7.png)
+![Imagen 7](img/imagen_7.png)
 
 ### Imagen 8
-![Imagen 8](img7/imagen_8.png)
+![Imagen 8](img/imagen_8.png)
